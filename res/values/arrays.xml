@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array android:id="@+id/stringarray1" android:layout_width="wrap_content" android:layout_height="wrap_content" name="subjectidarray">
+        
+    <item android:layout_height="wrap_content" android:layout_width="wrap_content" 
+        android:id="@+id/item1">AM</item>
+     <item android:layout_height="wrap_content" android:layout_width="wrap_content" 
+        android:id="@+id/item2">Myanmar</item>
+     <item android:layout_height="wrap_content" android:layout_width="wrap_content" 
+        android:id="@+id/item3">Math</item>
+     <item android:layout_height="wrap_content" android:layout_width="wrap_content" 
+        android:id="@+id/item4">Physics</item>
+     <item android:layout_height="wrap_content" android:layout_width="wrap_content" 
+        android:id="@+id/item5">English</item>
+     <item android:layout_height="wrap_content" android:layout_width="wrap_content" 
+        android:id="@+id/item6">Major</item>
+    </string-array>
+    
+</resources>

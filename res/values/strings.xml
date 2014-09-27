@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Yangon University</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="nav_drawer_items">
+        <item >Department</item>
+        <item >Event</item>
+        <item >Map</item>
+        <item >Report</item>
+    </string-array>
+
+     <array name="nav_drawer_icons">
+        <item>@drawable/ic_department</item>
+      	<item>@drawable/ic_event</item>
+      	<item>@drawable/ic_map</item>
+      	<item>@drawable/ic_report</item>
+    </array>
+    
+    
+    <string name="desc_list_item_icon">Item Icon</string>
+    
+    
+</resources>
